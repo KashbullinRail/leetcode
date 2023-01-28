@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
 //    Solution1().twoSum(IntArray(6) { it * 1 }, 5)
 //    Solution1().twoSum(IntArray(2){3}, 6)
 
-//    Solution2().isValid("(]{}[]")
+//    Solution2().isValid("(){}[]")
 //    Solution2().isValid("{[]}")
 
 //    Solution3().isPalindrome("A man, a plan, a canal: Panama")
