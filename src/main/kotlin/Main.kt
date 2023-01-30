@@ -21,7 +21,9 @@ fun main(args: Array<String>) {
 //    val sum: Array<CharArray> = arrayOf(one, two, three, four)
 //    Solution6().numIslands(sum)
 
-    Solution7().search(intArrayOf(-1,0,3,5,4,9,12,14,18,22), -2)
+//    Solution7().search(intArrayOf(-1,0,3,5,4,9,12,14,18,22), -2)
+
+//    Solution8().addBinary("1010", "1011")
 
 
 
