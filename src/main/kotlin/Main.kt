@@ -25,6 +25,9 @@ fun main(args: Array<String>) {
 
 //    Solution8().addBinary("1010", "1011")
 
+    Solution11().isAnagram("anagram","nagaram")
+//    Solution11().isAnagram("aacc","ccac")
+//    Solution11().isAnagram("rat","car")
 
 
 }
