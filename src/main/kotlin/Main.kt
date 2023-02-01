@@ -25,9 +25,18 @@ fun main(args: Array<String>) {
 
 //    Solution8().addBinary("1010", "1011")
 
-    Solution11().isAnagram("anagram","nagaram")
+//    Solution11().isAnagram("anagram","nagaram")
 //    Solution11().isAnagram("aacc","ccac")
 //    Solution11().isAnagram("rat","car")
+
+//    Solution12().maxProfit(intArrayOf(7,1,5,3,6,4))
+
+//    val one: IntArray = intArrayOf(1, 1, 1, 1, 0)
+//    val two: IntArray = intArrayOf(1, 1, 0, 1, 0)
+//    val three: IntArray = intArrayOf(1, 1, 0, 0, 0)
+//    val four: IntArray = intArrayOf(0, 0, 0, 1, 0)
+//    val sum: Array<IntArray> = arrayOf(one, two, three, four)
+//    Solution13().floodFill(sum, 1, 1, 2)
 
 
 }

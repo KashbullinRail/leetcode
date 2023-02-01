@@ -1,6 +1,6 @@
 import javax.swing.tree.TreeNode
 
-//class TreeNode(var `val`: Int) {
+class TreeNode(var `val`: Int) {
 //    var left: TreeNode? = null
 //    var right: TreeNode? = null
 //}
@@ -18,4 +18,4 @@ import javax.swing.tree.TreeNode
 //        root.right = left
 //        return root
 //    }
-//}
+}
