@@ -38,6 +38,18 @@ fun main(args: Array<String>) {
 //    val sum: Array<IntArray> = arrayOf(one, two, three, four)
 //    Solution13().floodFill(sum, 1, 1, 2)
 
+//    MyQueue().push(1)
+//    MyQueue().push(4)
+//    MyQueue().peek()
+//    MyQueue().pop()
+
+//    Solution15().canConstruct("adfa", "frada")
+
+
+
+
+
+
 
 }
 
